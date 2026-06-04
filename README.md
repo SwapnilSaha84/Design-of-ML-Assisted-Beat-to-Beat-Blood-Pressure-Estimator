@@ -57,5 +57,4 @@ Software & Tools
 5)ESP32 Firmware Development
 
 
-Source code is not publicly available.
-For academic or recruitment purposes, access can be provided upon request.
+
